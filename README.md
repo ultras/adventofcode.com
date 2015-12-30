@@ -1,2 +1,2 @@
 # adventofcode.com
-My solutions for the adventofcode.com puzzle.
+My solutions for the http://adventofcode.com/ puzzle.
